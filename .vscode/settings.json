@@ -1,12 +1,13 @@
 {
   "workbench.colorCustomizations": {
-    "commandCenter.border": "#15202b99",
-    "sash.hoverBorder": "#18edff",
-    "tab.activeBorder": "#18edff",
-    "titleBar.activeBackground": "#00d2e4",
-    "titleBar.activeForeground": "#15202b",
-    "titleBar.border": "#00d2e4",
-    "titleBar.inactiveBackground": "#00d2e499",
-    "titleBar.inactiveForeground": "#15202b99"
-  }
+    "titleBar.activeBackground": "#8c3f94",
+    "titleBar.activeForeground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#ac51b5",
+    "tab.activeBorder": "#ac51b5",
+    "titleBar.border": "#8c3f94",
+    "titleBar.inactiveBackground": "#8c3f9499",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#8c3f94"
 }
